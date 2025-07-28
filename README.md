@@ -13,3 +13,5 @@ This is a direct Independent Study looking into the use of explainable AI (XAI) 
 
 <img width="640" height="500" alt="Results_ Test On Legitimate Email" src="https://github.com/user-attachments/assets/65b64f98-e977-4d3f-a6b7-101d3f3a42f9" />
 <img width="650" height="500" alt="Results_Test On Actual Phishing Email" src="https://github.com/user-attachments/assets/91444a41-7147-4af3-9946-43f5532d3289" />
+
+<img width="512" height="413" alt="image" src="https://github.com/user-attachments/assets/a448d651-1113-44e8-8135-522eeaca878b" />
