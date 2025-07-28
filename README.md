@@ -1,0 +1,2 @@
+# nterpretable-AI-for-Phishing-Email-Detection-Combining-NLP-with-Explainable-Machine-Learning
+This is a direct Independent Study looking into the use of explainable AI (XAI) in Phishing Detection. By combining algorithms that explain machine learning models prediction (LIME &amp; ELI5), with models such as Random Forest &amp; XGBoost, users are provided a deeper understanding behind the reasoning of phishing detection in emails.
